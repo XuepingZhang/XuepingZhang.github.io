@@ -1,37 +1,35 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: "MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection"
+    authors: <strong>Xueping Zhang</strong>, Zhenshan Zhang, Yechen Wang, Linxi Li, Liwei Jin, Ming Li* (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2512.07352
+    code: https://github.com/XuepingZhang/MultiAPI-Spoof
+    image: ./assets/img/main_api.pdf
 
 
   - title: "CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures"
     authors: <strong>Xueping Zhang</strong>, Liwei Jin , Yechen Wang, Linxi Li, Ming Li* (*Corresponding authors)
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    pdf: https://arxiv.org/pdf/2509.15804
+    code: https://github.com/XuepingZhang/CompSpoof
+    image: ./assets/img/main.pdf
 
+  - title: "The Impact of Audio Watermarking on Audio Anti-Spoofing Countermeasures"
+    authors: Zhenshan Zhang, <strong>Xueping Zhang</strong>, Yechen Wang, Liwei Jin, Ming Li* (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2509.20736
+    code: https://github.com/Alphawarheads/Watermark_Spoofing
+    image: ./assets/img/main.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: "Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization"
+    authors: <strong>Xueping Zhang</strong>; Yaxiong Chen; Ruilin Yao; Yunfei Zi; Shengwu Xiong
+    conference_short: ICME
+    conference: 2025 IEEE International Conference on Multimedia and Expo (ICME)
+    pdf: https://arxiv.org/pdf/2504.08365
+    image: ./assets/img/new_main.pdf
     notes: Oral Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    image: ./assets/img/teaser_example.png
+  - title: "Adaptive Learning via a Negative Selection Strategy for Few-Shot Bioacoustic Event Detection"
+    authors: Yaxiong Chen; <strong>Xueping Zhang</strong>; Yunfei Zi; Shengwu Xiong
+    conference_short: ICME
+    conference: 2024 IEEE International Conference on Multimedia and Expo (ICME)
+    pdf: https://arxiv.org/pdf/2409.15168
+    image: ./assets/img/mutual.pdf
