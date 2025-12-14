@@ -351,10 +351,17 @@ header ul a strong {
   display:block;
   color:#222;
 }
+//
+//section {
+//  width:650px;
+//  float:right;
+//  padding-top:4.0em;
+//  padding-bottom:50px;
+//}
 
 section {
-  width:650px;
-  float:right;
+  margin-left: 232px;   /* 等于 header 的宽度 */
+  width: auto;          /* 不写死 */
   padding-top:4.0em;
   padding-bottom:50px;
 }
