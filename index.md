@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a Research Assistant at Duke Kunshan University. She previously obtained her Master’s degree in Computer Science and Technology from Wuhan University of Technology. My research interests include audio anti-spoofing, few-shot acoustic event detection and sound event localization.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Sound Signal Processing:** audio anti-spoofing, few-shot acoustic event detection and sound event localization
+- **Machine Learning:** LLM, meta-learning, transfer learning
 
 ## News
 
