@@ -1,5 +1,15 @@
 main:
 
+
+  - title: "ICME 2026 Environment-Aware Speech and Sound Deepfake Detection Challenge (ESDD2)"
+    authors: <strong>Xueping Zhang</strong>, Han Yin, Yang Xiao, Lin Zhang, Ting Dang, Rohan Kumar Das, Ming Li
+    pdf: https://arxiv.org/pdf/2601.07303
+    code: https://github.com/XuepingZhang/ESDD2-Baseline
+    image: ./assets/img/ESDD2.png
+    notes: Challenge Organizer
+    conference_short: ICME Grand Challenge
+
+
   - title: "MultiAPI Spoof: A Multi-API Dataset and Local-Attention Network for Speech Anti-spoofing Detection"
     authors: <strong>Xueping Zhang</strong>, Zhenshan Zhang, Yechen Wang, Linxi Li, Liwei Jin, Ming Li* (*Corresponding authors)
     pdf: https://arxiv.org/pdf/2512.07352
@@ -7,17 +17,20 @@ main:
     image: ./assets/img/nes2net_la.png
 
 
+
   - title: "CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures"
     authors: <strong>Xueping Zhang</strong>, Liwei Jin , Yechen Wang, Linxi Li, Ming Li* (*Corresponding authors)
     pdf: https://arxiv.org/pdf/2509.15804
     code: https://github.com/XuepingZhang/CompSpoof
     image: ./assets/img/main_compspoof.png
+#    conference_short: ICASSP
 
   - title: "The Impact of Audio Watermarking on Audio Anti-Spoofing Countermeasures"
     authors: Zhenshan Zhang, <strong>Xueping Zhang</strong>, Yechen Wang, Liwei Jin, Ming Li* (*Corresponding authors)
     pdf: https://arxiv.org/pdf/2509.20736
     code: https://github.com/Alphawarheads/Watermark_Spoofing
     image: ./assets/img/main_watermark.png
+#    conference_short: ICASSP
 
   - title: "Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization"
     authors: <strong>Xueping Zhang</strong>; Yaxiong Chen; Ruilin Yao; Yunfei Zi; Shengwu Xiong
