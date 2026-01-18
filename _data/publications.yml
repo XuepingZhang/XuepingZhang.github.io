@@ -23,14 +23,14 @@ main:
     pdf: https://arxiv.org/pdf/2509.15804
     code: https://github.com/XuepingZhang/CompSpoof
     image: ./assets/img/main_compspoof.png
-#    conference_short: ICASSP
+    conference_short: ICASSP
 
   - title: "The Impact of Audio Watermarking on Audio Anti-Spoofing Countermeasures"
     authors: Zhenshan Zhang, <strong>Xueping Zhang</strong>, Yechen Wang, Liwei Jin, Ming Li* (*Corresponding authors)
     pdf: https://arxiv.org/pdf/2509.20736
     code: https://github.com/Alphawarheads/Watermark_Spoofing
     image: ./assets/img/main_watermark.png
-#    conference_short: ICASSP
+    conference_short: ICASSP
 
   - title: "Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization"
     authors: <strong>Xueping Zhang</strong>; Yaxiong Chen; Ruilin Yao; Yunfei Zi; Shengwu Xiong
