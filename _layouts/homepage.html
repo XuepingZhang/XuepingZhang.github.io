@@ -34,6 +34,7 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
     <link rel="stylesheet" href="./assets/css/footer.css">
+    <link rel="stylesheet" href="./assets/css/social-icons.css">
 
   </head>
   <body>
@@ -86,8 +87,8 @@
         {% endif %}
 
         {% if site.huggingface %}
-        <a style="margin: 0 5px 0 0" href="{{ site.huggingface }}" target="_blank" rel="noopener">
-          <i class="fab fa-huggingface"></i>
+        <a class="social-icon-hf" style="margin: 0 5px 0 0" href="{{ site.huggingface }}" target="_blank" rel="noopener" title="Hugging Face">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="22" height="22">
         </a>
         {% endif %}
 
