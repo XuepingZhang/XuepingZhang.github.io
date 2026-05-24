@@ -3,8 +3,7 @@ main:
 
   - title: "ICME 2026 Environment-Aware Speech and Sound Deepfake Detection Challenge (ESDD2)"
     authors: <strong>Xueping Zhang</strong>, Han Yin, Yang Xiao, Lin Zhang, Ting Dang, Rohan Kumar Das, Ming Li
-    pdf: https://arxiv.org/pdf/2601.07303
-    code: https://github.com/XuepingZhang/ESDD2-Baseline
+    website: https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description
     image: ./assets/img/ESDD2.png
     notes: Challenge Organizer
     conference_short: ICME Grand Challenge
