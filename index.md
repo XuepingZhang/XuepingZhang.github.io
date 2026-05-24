@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Assistant at Duke Kunshan University. I previously obtained my Master’s degree in Computer Science and Technology from Wuhan University of Technology. My research interests include fine-grained audio anti-spoofing, acoustic event detection and localization.
+I am currently a Research Assistant at Duke Kunshan University. I obtained my Master’s degree in Computer Science and Technology from Wuhan University of Technology.
 
 {% include_relative _includes/services.md %}
 
 ## Research Interests
 
-- **Sound Signal Processing:** audio anti-spoofing, few-shot acoustic event detection and sound event localization
+- **Sound Signal Processing:** fine-grained audio anti-spoofing, few-shot acoustic event detection and sound event localization
 - **Machine Learning:** LLM, meta-learning, transfer learning
 
 ## News

@@ -443,6 +443,43 @@ section {
   padding-bottom:50px;
 }
 
+.site-footer {
+  clear: both;
+  text-align: center;
+  margin-top: 2.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e5e5e5;
+  color: #777;
+}
+
+.site-footer__label {
+  margin: 0 0 0.5em;
+}
+
+.site-footer__hint {
+  margin: 0.5em 0 1em;
+}
+
+.site-footer__meta {
+  margin: 0;
+  color: #595959;
+}
+
+.flag-counter img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-footer {
+    border-top-color: #444;
+  }
+
+  .site-footer__meta {
+    color: #dadbdf;
+  }
+}
+
 
 
 small {
