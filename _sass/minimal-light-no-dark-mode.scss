@@ -82,7 +82,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Ubuntu Mono";
 }
 
@@ -209,7 +209,11 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:32px;
+}
+
+position {
+  font-size: 1.15rem;
 }
 
 a {
@@ -222,7 +226,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:13px;
   color:#777;
   margin-top:-0.3em;
   display:block;
@@ -233,7 +237,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  max-width:1280px;
+  width:90%;
   margin:0 auto;
 }
 
@@ -283,7 +288,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:280px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -320,7 +325,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:13px;
   color:#999;
   display:block;
   text-align:center;
@@ -347,13 +352,13 @@ header ul li + li + li {
 }
 
 header ul a strong {
-  font-size:14px;
+  font-size:16px;
   display:block;
   color:#222;
 }
 
 section {
-  width:650px;
+  width:calc(100% - 300px);
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
@@ -362,7 +367,7 @@ section {
 
 
 small {
-  font-size:11px;
+  font-size:13px;
 }
 
 hr {
@@ -373,7 +378,7 @@ hr {
 }
 
 footer {
-  width:232px;
+  width:280px;
   float:left;
   position:fixed;
   bottom:30px;

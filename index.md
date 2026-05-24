@@ -6,12 +6,15 @@ layout: homepage
 
 I am currently a Research Assistant at Duke Kunshan University. She previously obtained her Master’s degree in Computer Science and Technology from Wuhan University of Technology. My research interests include audio anti-spoofing, few-shot acoustic event detection and sound event localization.
 
+{% include_relative _includes/services.md %}
+
 ## Research Interests
 
 - **Sound Signal Processing:** audio anti-spoofing, few-shot acoustic event detection and sound event localization
 - **Machine Learning:** LLM, meta-learning, transfer learning
 
 ## Highlight
+- **[May 2026]** The entire CompSpoofV2 dataset is now fully open-sourced.
 - **[Jan. 2026]** We launched the ICME 2026 Environment-Aware Speech and Sound Deepfake Detection Challenge (ESDD2)
 - **[Jan. 2026]** Our paper "CompSpoof: A Dataset and Joint Learning Framework for Component-Level Audio Anti-spoofing Countermeasures" was accepted by ICASSP 2026.
 - **[Jan. 2026]** Our paper "The Impact of Audio Watermarking on Audio Anti-Spoofing Countermeasures" was accepted by ICASSP 2026.
@@ -21,5 +24,3 @@ I am currently a Research Assistant at Duke Kunshan University. She previously o
 - **[Mar. 2024]** Our paper about few-shot sound event detection is accepted to ICME 2024.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
