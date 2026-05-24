@@ -32,7 +32,6 @@ main:
   - title: "Location-Oriented Sound Event Localization and Detection with Spatial Mapping and Regression Localization"
     authors: <strong>Xueping Zhang</strong>; Yaxiong Chen; Ruilin Yao; Yunfei Zi; Shengwu Xiong
     conference_short: ICME
-    conference: 2025 IEEE International Conference on Multimedia and Expo (ICME)
     pdf: https://arxiv.org/pdf/2504.08365
     image: ./assets/img/location.png
     notes: Oral Presentation
@@ -40,6 +39,5 @@ main:
   - title: "Adaptive Learning via a Negative Selection Strategy for Few-Shot Bioacoustic Event Detection"
     authors: Yaxiong Chen; <strong>Xueping Zhang</strong>; Yunfei Zi; Shengwu Xiong
     conference_short: ICME
-    conference: 2024 IEEE International Conference on Multimedia and Expo (ICME)
     pdf: https://arxiv.org/pdf/2409.15168
     image: ./assets/img/al.png
