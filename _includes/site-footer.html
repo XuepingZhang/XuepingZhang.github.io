@@ -1,10 +1,11 @@
 <div class="page-footer__inner">
   {% if site.flag_counter_id %}
   <div class="page-footer__visitors">
-    <span class="page-footer__label">Visitors:</span>
-    <a class="page-footer__flags" href="https://s01.flagcounter.com/more/{{ site.flag_counter_id }}/" target="_blank" rel="noopener" title="Visitor countries for {{ site.url }}">
-      <img src="https://s01.flagcounter.com/count2/{{ site.flag_counter_id }}/bg_FFFFFF/txt_000000/border_CCCCCC/columns_{{ site.flag_counter_columns }}/maxflags_{{ site.flag_counter_maxflags }}/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-    </a>
+    <div class="page-footer__flags">
+      <a href="https://s01.flagcounter.com/more/{{ site.flag_counter_id }}/" target="_blank" rel="noopener" title="Visitor countries for {{ site.url }}">
+        <img src="https://s01.flagcounter.com/count2/{{ site.flag_counter_id }}/bg_FFFFFF/txt_000000/border_CCCCCC/columns_{{ site.flag_counter_columns }}/maxflags_{{ site.flag_counter_maxflags }}/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+      </a>
+    </div>
   </div>
   {% endif %}
   <p class="page-footer__meta">© {{ site.title }} | Last updated: {{ site.time | date: "%Y-%m-%d" }}</p>
