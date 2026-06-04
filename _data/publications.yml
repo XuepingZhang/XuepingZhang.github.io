@@ -12,6 +12,7 @@ main:
     pdf: https://arxiv.org/pdf/2512.07352
     code: https://github.com/XuepingZhang/MultiAPI-Spoof
     image: ./assets/img/nes2net_la.png
+    conference_short: Interspeech
 
 
 
