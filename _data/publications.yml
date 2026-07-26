@@ -1,5 +1,13 @@
 main:
 
+  - title: "PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions"
+    authors: Zhenshan Zhang, <strong>Xueping Zhang</strong>, Linxi Li, Yechen Wang, Ming Li* (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2607.10345
+    code: https://anonymous.4open.science/r/PC-Mix-3AFE
+    image: ./assets/img/PC-Mix.png
+    conference_short: Arxiv
+    notes: Preprint
+
   - title: "Overview of ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge"
     authors: <strong>Xueping Zhang</strong>, Han Yin, Yang Xiao, Lin Zhang, Ting Dang, Rohan Kumar Das, Ming Li
     pdf: https://github.com/XuepingZhang/ESDD2-Baseline/blob/main/Overview%20of%20ESDD2%20Environment-Aware%20Speech%20and%20Sound%20Deepfake%20Detection%20Challenge.pdf
