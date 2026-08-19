@@ -32,8 +32,8 @@ enable_footnote: false
 
 # Flag Counter — https://s01.flagcounter.com/more/Mh6s/
 flag_counter_id: Mh6s
-flag_counter_columns: 8
-flag_counter_maxflags: 12
+flag_counter_columns: 10
+flag_counter_maxflags: 20
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
