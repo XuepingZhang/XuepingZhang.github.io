@@ -15,7 +15,8 @@ I am currently a Research Assistant at Duke Kunshan University. I obtained my Ma
 {% include_relative _includes/services.md %}
 
 ## News
-- **[July 2026]** Our new paper PC-Mix with code and dataset has been Online  — see [Publications](#publications).
+- **[Sep. 2026]** Our paper PC-Mix has been accepted by SLT 2026  — see [Publications](#publications).
+- **[July 2026]** Our new paper PC-Mix with code and dataset has been Online.
 - **[July 2026]** We held the [ESDD2 Challenge session](https://xuepingzhang.github.io/ICME-ESDD2-Challenge-Schedule/) on ICME.
 - **[June 2026]** A paper accepted at Interspeech 2026, code, model and dataset are fully open-sourced — see [Publications](#publications).
 - **[May 2026]** The entire [CompSpoofV2 dataset](https://xuepingzhang.github.io/CompSpoof-V2-Dataset/) is now fully open-sourced.
