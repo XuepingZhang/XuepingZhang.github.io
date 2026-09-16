@@ -6,7 +6,7 @@ main:
     code: https://github.com/Alphawarheads/PC-Mix
     image: ./assets/img/PC-Mix.png
     conference_short: SLT
-    notes: Preprint
+
 
   - title: "Overview of ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge"
     authors: <strong>Xueping Zhang</strong>, Han Yin, Yang Xiao, Lin Zhang, Ting Dang, Rohan Kumar Das, Ming Li
