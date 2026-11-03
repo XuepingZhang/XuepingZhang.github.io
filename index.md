@@ -4,17 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Assistant at Duke Kunshan University. I obtained my Master’s degree in Computer Science and Technology from Wuhan University of Technology.
+I am currently a Doctoral Researcher at EURECOM and Sorbonne Université. My research interests include audio deepfake detection and post-training of LLMs for downstream tasks.
 
 
-## Research Interests
-
-- **Sound Signal Processing:** fine-grained audio anti-spoofing, few-shot acoustic event detection and sound event localization
-- **Machine Learning:** LLM, meta-learning, transfer learning
 
 {% include_relative _includes/services.md %}
 
 ## News
+- **[Dov. 2026]** I have started my PhD at EURECOM and Sorbonne Université, working on the [DEFORM](https://deform-project.eu/) project.
 - **[Sep. 2026]** Our paper PC-Mix has been accepted by SLT 2026  — see [Publications](#publications).
 - **[July 2026]** Our new paper PC-Mix with code and dataset has been Online.
 - **[July 2026]** We held the [ESDD2 Challenge session](https://xuepingzhang.github.io/ICME-ESDD2-Challenge-Schedule/) on ICME.
