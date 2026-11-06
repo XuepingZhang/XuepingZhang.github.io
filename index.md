@@ -10,6 +10,7 @@ I am currently a Doctoral Researcher at EURECOM and Sorbonne Université. My res
 
 {% include_relative _includes/services.md %}
 
+
 ## News
 - **[Dov. 2026]** I have started my PhD at EURECOM and Sorbonne Université, working on the [DEFORM](https://deform-project.eu/) project.
 - **[Sep. 2026]** Our paper PC-Mix has been accepted by SLT 2026  — see [Publications](#publications).
