@@ -1,5 +1,13 @@
 main:
 
+
+  - title: "ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing"
+    authors: <strong>Xueping Zhang</strong>, Xiaoxiao Miao, Tiantian Feng, Ming Li, Ming Li* (*Corresponding authors)
+    pdf: https://arxiv.org/pdf/2610.34156
+    code: https://anonymous.4open.science/r/asr_word_antispoofing_anon-38C6/README.md
+    image: ./assets/img/asr.png
+    conference_short: Arxiv
+
   - title: "PC-Mix: Partial-Component Audio Spoofing Detection under Mixed Speech and Environmental Sound Conditions"
     authors: Zhenshan Zhang, <strong>Xueping Zhang</strong>, Linxi Li, Yechen Wang, Ming Li* (*Corresponding authors)
     pdf: https://arxiv.org/pdf/2607.10345

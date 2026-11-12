@@ -12,7 +12,8 @@ I am currently a Doctoral Researcher at EURECOM and Sorbonne Université. My res
 
 
 ## News
-- **[Dov. 2026]** I have started my PhD at EURECOM and Sorbonne Université, working on the [DEFORM](https://deform-project.eu/) project.
+- **[Nov. 2026]** I have started my PhD at EURECOM and Sorbonne Université, working on the [DEFORM](https://deform-project.eu/) project.
+- **[Oct. 2026]** Our new paper [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/pdf/2610.34156) with code has been Online - see [Publications](#publications).
 - **[Sep. 2026]** Our paper PC-Mix has been accepted by SLT 2026  — see [Publications](#publications).
 - **[July 2026]** Our new paper PC-Mix with code and dataset has been Online.
 - **[July 2026]** We held the [ESDD2 Challenge session](https://xuepingzhang.github.io/ICME-ESDD2-Challenge-Schedule/) on ICME.
