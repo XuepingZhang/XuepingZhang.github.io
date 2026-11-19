@@ -4,23 +4,25 @@ layout: homepage
 
 ## About Me
 
-I am currently a Doctoral Researcher at EURECOM and Sorbonne Université. My research interests include audio deepfake detection and post-training of LLMs for downstream tasks.
+I am currently a Doctoral Researcher at EURECOM and Sorbonne Université. under the supervision of Prof. [Massimiliano Todisco](https://www.massimilianotodisco.eu/). My research interests include audio deepfake detection and post-training of LLMs for downstream tasks.
 
 
 
-{% include_relative _includes/services.md %}
-
-
-## News
+## Activities
 - **[Nov. 2026]** I have started my PhD at EURECOM and Sorbonne Université, working on the [DEFORM](https://deform-project.eu/) project.
 - **[Oct. 2026]** Our new paper [ASR-Protected Fusion and Reference-Anchored Policy Optimization for Joint ASR and Word-Level Speech Anti-Spoofing](https://arxiv.org/pdf/2610.34156) with code has been Online - see [Publications](#publications).
+- **[Oct. 2026]** I attended INTERSPEECH in Sydney, Australia, and presented my paper.
 - **[Sep. 2026]** Our paper PC-Mix has been accepted by SLT 2026  — see [Publications](#publications).
 - **[July 2026]** Our new paper PC-Mix with code and dataset has been Online.
-- **[July 2026]** We held the [ESDD2 Challenge session](https://xuepingzhang.github.io/ICME-ESDD2-Challenge-Schedule/) on ICME.
+- **[July 2026]** I attended ICME in Bangkok, Thailand, and held the [ESDD2 Challenge session](https://xuepingzhang.github.io/ICME-ESDD2-Challenge-Schedule/) 
 - **[June 2026]** A paper accepted at Interspeech 2026, code, model and dataset are fully open-sourced — see [Publications](#publications).
+- **[May 2026]** I attended ICASSP in Barcelona, ​​Spain, and presented my paper.
 - **[May 2026]** The entire [CompSpoofV2 dataset](https://xuepingzhang.github.io/CompSpoof-V2-Dataset/) is now fully open-sourced.
 - **[Jan. 2026]** We launched the [ICME 2026 Environment-Aware Speech and Sound Deepfake Detection Challenge](https://sites.google.com/view/esdd-challenge/esdd-challenges/esdd-2/description) (ESDD2).
 - **[Jan. 2026]** Two papers accepted to ICASSP 2026 — see [Publications](#publications).
+- **[July. 2025]** I attended ICME in Nantes, France, and gave an oral presentation of my paper there.
 
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
